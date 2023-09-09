@@ -20,6 +20,8 @@ The `pages/api` directory is mapped to `/api/*`. Files in this directory are tre
 
 # Welcome to my personal portfolio! This repository showcases my work, projects, and skills. Feel free to explore, and don't hesitate to get in touch if you have any questions or opportunities for collaboration.
 
+
+
 ## Table of Contents
 
 - [About Me](#about-me)
