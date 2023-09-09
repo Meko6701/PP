@@ -30,29 +30,21 @@ The `pages/api` directory is mapped to `/api/*`. Files in this directory are tre
 - [Contact](#contact)
 
 ## About Me
-
-Introduce yourself briefly. Share your background, interests, and what motivates you as a developer or creative professional. You can also include a profile picture here.
-
-![Profile Picture](url-to-your-image.png)
+As an upcoming electrical engineer, I strive to be a source of infectious energy and enthusiasm, quickly impressing potential employers with my technical skills, attention to detail, and strong work ethic. As an experienced programmer, I have used popular object-oriented programming languages such as Python and JavaScript to define and manipulate objects, classes, and inheritance.
 
 ## Projects
 
-List and describe the projects featured in your portfolio. Include project names, descriptions, technologies used, and links to the project repositories or live demos. You can format this as a table or a list.
 
 | Project Name | Description | Technologies | Demo |
 | ------------ | ----------- | ------------ | ---- |
-| Project 1    | Description | Tech stack   | [Demo](project1-demo-link) |
-| Project 2    | Description | Tech stack   | [Demo](project2-demo-link) |
-| Project 3    | Description | Tech stack   | [Demo](project3-demo-link) |
+| Cogni Sign    | ASL translator | Tech stack   | [Demo](project1-demo-link) |
+| GUI Development     | NoteBook App | Tech stack   | [Demo](project2-demo-link) |
+| Get A Grip    | Organizing items (Quanser) | Tech stack   | [Demo](project3-demo-link) |
 
 ## Skills
 
-Highlight your key skills and technologies. You can use icons or a simple list to represent your proficiency.
 
 - Web Development: HTML, CSS, JavaScript
-- Frameworks: React, Vue.js
-- Backend: Node.js, Express
-- Database: MongoDB, MySQL
-- Design: UI/UX, Adobe Creative Suite
+- Frameworks: React, tailwindcss
+- Database: MongoDB
 - Version Control: Git, GitHub
-- Other: Responsive Design, SEO
