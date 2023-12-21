@@ -152,7 +152,7 @@ I do, from brainstorming new ideas to working late to meet project deadlines.
               <p className="py-6">
                 Through previous experience as a Managnent intern and Sponsor executive.
               </p>
-              <h4 className="py-1 text-white">Performance Feedback</h4>
+              <h4 className="py-1 text-white">erformance Feedback</h4>
               <p className="text-white py-1">Presentation Skills</p>
               <p className="text-white py-1">Time Managment</p>
               <p className="text-white py-1">Adaptability</p>
