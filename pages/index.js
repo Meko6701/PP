@@ -76,7 +76,7 @@ export default function Home() {
               <li>
                 <a
                   className="bg-gradient-to-r from-cyan-400 text- to-cyan-700 text-white px-4 py-2 border-none rounded-md ml-8"
-                  href="https://acrobat.adobe.com/link/review?uri=urn:aaid:scds:US:98b8579d-615e-334c-930d-c656edf69445"
+                  href="https://acrobat.adobe.com/link/review?uri=urn:aaid:scds:US:8938a88e-0929-38f2-bd46-44ba5ebb3029"
                 >
                   Resume
                 </a>
